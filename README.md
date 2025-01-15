@@ -7,29 +7,29 @@ Welcome to the Order Management System, a feature-rich and user-friendly web app
 ## ✨ Features
 
 ### *1. Order List View 📋*
-- *Homepage*: Displays all purchased orders in an organized and intuitive layout.
-- *Reusable Order Card/Row Component*:
-  - 🆔 *Order ID*: Unique identifier for each order.
-  - 📅 *Date*: Date of order placement.
-  - 💰 *Total Amount*: Total cost of the order.
-  - 🟢 *Status*: Current status of the order (e.g., pending, completed).
+- **Homepage**: Displays all purchased orders in an organized and intuitive layout.
+- **Reusable Order Card/Row Component**:
+  - 🆔 **Order ID**: Unique identifier for each order.
+  - 📅 **Date**: Date of order placement.
+  - 💰 ***Total Amount***: Total cost of the order.
+  - 🟢 ***Status***: Current status of the order (e.g., pending, completed).
 - *Expandable View*: Click to reveal detailed order information. 🔍
 
 ### 2. New Order Creation 🛒
-- *"New Order" Button*: Easily initiate order creation from the homepage.
-- *Three-Panel Layout*:
-  - *Left Panel*: Displays cart items with a 🗑 delete button (visible on hover).
-  - *Center Panel*: Add items to the cart seamlessly.
-  - *Right Panel*: Lists available items for selection.
-- *Drag-and-Drop Functionality*: Simplifies adding items to the cart. 🤏
-- *Real-Time Cart Updates*: Reflects changes immediately. 🔄
-- *Item Quantity Controls*: Adjust item quantities with ➕➖ buttons.
-- *Order Summary*: Provides a comprehensive overview of the cart. 📊
-- *Form Validation*: Ensures all required fields are completed before submission. ✅
+- ***"New Order" Button***: Easily initiate order creation from the homepage.
+- ***Three-Panel Layout***:
+  - ***Left Panel***: Displays cart items with a 🗑 delete button (visible on hover).
+  - ***Center Panel***: Add items to the cart seamlessly.
+  - ***Right Panel***: Lists available items for selection.
+- ***Drag-and-Drop Functionality***: Simplifies adding items to the cart. 🤏
+- ***Real-Time Cart Updates***: Reflects changes immediately. 🔄
+- ***Item Quantity Controls***: Adjust item quantities with ➕➖ buttons.
+- ***Order Summary***: Provides a comprehensive overview of the cart. 📊
+- ***Form Validation***: Ensures all required fields are completed before submission. ✅
 
 ### 3. Support 💬
-- *"Contact Support" Button*: Access support directly from the order details view.
-- *Chat Window Features*:
+- **"Contact Support" Button**: Access support directly from the order details view.
+- **Chat Window Features**:
   - 📌 Fixed position in the bottom-right corner of the page.
   - 🔽 Minimize/🔼 Maximize controls for better user experience.
   - 🔄 Retains order context during support interactions.
@@ -61,30 +61,34 @@ Welcome to the Order Management System, a feature-rich and user-friendly web app
 ### Installation 💻
 
 1. Clone the repository:
-   bash
+  ``` bash
    git clone https://github.com/singupurapusaicharan/ui-assignment-1.git
-   
+   ```
+
    
 2. Navigate to the project directory:
-   bash
+  ``` bash
    cd ui-assignment-1
-  
+  ```
+
 
 3. Install dependencies:
-   bash
+  ``` bash
    npm install
-   
+   ```
+
 
 ### Running the Application ▶
 1. Start the development server:
-   bash
+  ``` bash
    npm start
-   
+   ```
+
 ---
 
 ## 📁 Folder Structure
 
-plaintext
+```markdown
 └── singupurapusaicharan-ui-assignment-1/
     ├── README.md                     # Documentation for the project
     ├── eslint.config.js              # Configuration file for ESLint
@@ -139,16 +143,16 @@ plaintext
             ├── orderValidation.ts    # Functions to validate order inputs
             └── validation.js         # General validation utilities
 
-
+```
 
 ---
 
 ## 🔧 Key Features Demonstrated
 
-- *Responsive Design*: Ensures compatibility across devices. 📱💻
-- *Real-Time Updates*: Uses web sockets or state management for live updates. 🔄
-- *Clean Code Architecture*: Adheres to SOLID principles and modular design. 🛠
-- *User Experience (UX)*: Prioritizes intuitive interfaces and interactions. 🎨
+- **Responsive Design**: Ensures compatibility across devices. 📱💻
+- **Real-Time Updates**: Uses web sockets or state management for live updates. 🔄
+- **Clean Code Architecture**: Adheres to SOLID principles and modular design. 🛠
+- **User Experience (UX)**: Prioritizes intuitive interfaces and interactions. 🎨
 
 ---
 
@@ -176,14 +180,16 @@ We welcome contributions! Follow these steps:
 
 1. *Fork the repository*.
 2. Create a new branch for your feature or bug fix:
-   bash
+  ``` bash
    git checkout -b feature/your-feature-name
-   
+   ```
+
    
 3. Commit your changes and push the branch:
-   bash
+  ``` bash
    git push origin feature/your-feature-name
-   
+   ```
+
    
 4. Create a Pull Request on GitHub.
 
