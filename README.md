@@ -159,16 +159,18 @@ Welcome to the Order Management System, a feature-rich and user-friendly web app
 ## 📸 Screenshots
 
 ### Home Page
-![WhatsApp Image 2025-01-06 at 09 50 01_0a9d511d](https://github.com/user-attachments/assets/7ccb0e17-b1b3-4e39-b968-e3927ed199bb)
 
-![WhatsApp Image 2025-01-06 at 09 50 02_6d76eb22](https://github.com/user-attachments/assets/03270e05-5a1d-48e8-bcd9-61b3527195a4)
+![{325A8FC2-FE4A-49BD-8A10-695FFB34B213}](https://github.com/user-attachments/assets/21183662-6d5e-493d-a586-f36d2fe52223)
+
+![{2F5C1263-38E3-4C91-A451-0DB78A9BFABE}](https://github.com/user-attachments/assets/8127d121-4aef-421c-a5c8-39af79855472)
 
  
 
 ### New Order management
-![WhatsApp Image 2025-01-06 at 09 50 03_83a0c82d](https://github.com/user-attachments/assets/16ba3ebe-6024-4f1b-a9ca-9ee655750f37)
 
-![WhatsApp Image 2025-01-06 at 09 50 01_f9bba97e](https://github.com/user-attachments/assets/f44a2123-0325-46aa-acd6-4ce09df1a130)
+![{E86BF3EE-437A-4DC3-9E19-DFCA638B55FA}](https://github.com/user-attachments/assets/93fed2e9-e85c-45c0-8771-24600fffca45)
+
+![{33D1D178-340F-4B11-8D66-D2A3C945611C}](https://github.com/user-attachments/assets/81be0a39-74b0-4f52-a6fa-97ea7c8a16aa)
 
 
 ---
