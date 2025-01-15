@@ -62,7 +62,7 @@ Welcome to the Order Management System, a feature-rich and user-friendly web app
 
 1. Clone the repository:
   ``` bash
-   git clone https://github.com/singupurapusaicharan/ui-assignment-1.git
+   git clone https://github.com/singupurapusaicharan/Order-Management-Platform.git
    ```
 
    
@@ -89,7 +89,7 @@ Welcome to the Order Management System, a feature-rich and user-friendly web app
 ## 📁 Folder Structure
 
 ```markdown
-└── singupurapusaicharan-ui-assignment-1/
+└── singupurapusaicharan/Order-Management-Platform/
     ├── README.md                     # Documentation for the project
     ├── eslint.config.js              # Configuration file for ESLint
     ├── index.html                    # Main HTML file for the application
